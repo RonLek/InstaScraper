@@ -3,6 +3,10 @@ InstaScraper downloads all images of a private profile you follow or of any publ
 
 ## How to use InstaScraper?
 
+### Dependencies
+- [requests](https://pypi.org/project/requests/)
+- [selenium](https://pypi.org/project/selenium/)
+
 ### Customizing the script
 
 #### Step 1
